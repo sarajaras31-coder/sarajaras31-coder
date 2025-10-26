@@ -6,7 +6,7 @@
   <details>
    
   
-  </details>
+  
 
   ![Profile Views](https://komarev.com/ghpvc/?username=sarajaras31&style=flat&color=orange)
  <br>

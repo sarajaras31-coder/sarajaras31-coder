@@ -6,7 +6,8 @@
  
    
   </details>
-  <h3>  | � Computer Engineering |
+  
+  <h3>  | Computer Engineering 💻|
 
   ![Profile Views](https://komarev.com/ghpvc/?username=sarajaras31&style=flat&color=orange)
  <br>

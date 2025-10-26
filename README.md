@@ -5,7 +5,7 @@
 
   <details>
     <summary>Busy coding & vibing to:</summary>
-    [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul)
+  
   </details>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=sarajaras31&style=flat&color=orange)

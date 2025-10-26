@@ -1,7 +1,7 @@
 <div align="center" width="50">
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/><br>
 
-  <img src="https://raw.githubusercontent.com/USERNAME/EMOJI-ENGINEER-IMAGE/main/female-engineer.gif" alt="Female Engineer" width="30%"/><br>
+ 
 
   <details>
     <summary>Busy coding & vibing to:</summary>

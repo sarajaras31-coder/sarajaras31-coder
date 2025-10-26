@@ -6,7 +6,7 @@
  
    
   </details>
-  <h3> Computer Engineering💻
+  <h3>  | � Computer Engineering |
 
   ![Profile Views](https://komarev.com/ghpvc/?username=sarajaras31&style=flat&color=orange)
  <br>
@@ -18,7 +18,7 @@
 
 <hr>
 
-### Tools I Use
+###🧰 Tech Toolbox
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 
 ---

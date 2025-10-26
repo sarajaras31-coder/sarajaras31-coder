@@ -3,9 +3,9 @@
 
  <h1>👋 ساره الجرس | Sara Jaras </h1>
 
-  <details>
+ 
    
-  
+  </details>
   
 
   ![Profile Views](https://komarev.com/ghpvc/?username=sarajaras31&style=flat&color=orange)

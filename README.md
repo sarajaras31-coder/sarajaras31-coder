@@ -4,7 +4,7 @@
  <h1> ساره الجرس | Sara Jaras </h1>
 
   <details>
-    <summary>Busy coding & vibing to:</summary>
+   
   
   </details>
 

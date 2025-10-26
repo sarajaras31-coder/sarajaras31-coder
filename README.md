@@ -38,3 +38,15 @@
 - 💬 Ask me about **PC building, movies, or anything tech-related**.  
 - ⚡ Fun fact: Banging your head against a wall for an hour burns **150 calories**.
 
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedlearnSimply&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedlearnSimply&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+---
+
+### 💬 Contact Me
+
+Feel free to reach out via any of the platforms above – whether you want to collaborate, ask a coding question, or just say hi!

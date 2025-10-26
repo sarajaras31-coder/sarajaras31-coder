@@ -9,7 +9,7 @@
   </details>
 
   ![Profile Views](https://komarev.com/ghpvc/?username=sarajaras31&style=flat&color=orange)
-  ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsarajaras31&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=HITS&edge_flat=false)<br>
+ <br>
 
   <a href="https://www.linkedin.com/in/sara-jaras-783a87389/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.hackerrank.com/profile/sarajaras31"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=hackerrank&logoColor=white"/></a>
